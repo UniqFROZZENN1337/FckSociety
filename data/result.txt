@@ -1,0 +1,1 @@
+ssh -tt -o "StrictHostKeyChecking no" -oHostKeyAlgorithms=+ssh-rsa root@128.8.25.153 and password:root
